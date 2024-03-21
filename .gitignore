@@ -31,3 +31,4 @@ replay_pid*
 **/launch
 **/project
 *.idea
+*out
